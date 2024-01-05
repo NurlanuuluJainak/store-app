@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f9f9f9;
+  margin: 0 auto;
+}
+/* Categories.css */
+
+.categories-container {
+  max-width: 100%;
+}
+
+.cart-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .cart-container {
+    flex-wrap: wrap;
+  }
+}
