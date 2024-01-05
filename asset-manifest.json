@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/store-app/static/css/main.3216d318.css",
+    "main.js": "/store-app/static/js/main.5e703388.js",
+    "static/media/illustration.svg": "/store-app/static/media/illustration.64ea125857db1dda4453008a7ec0beaf.svg",
+    "static/media/фото.png": "/store-app/static/media/фото.16175699b3b98c2faeda.png",
+    "static/media/washBasin.png": "/store-app/static/media/washBasin.8d174599e14be7aad49b.png",
+    "static/media/washing.png": "/store-app/static/media/washing.36472063152fe675f429.png",
+    "static/media/AppStore.svg": "/store-app/static/media/AppStore.a2f49f9ecdf0c3c665d642be40441695.svg",
+    "static/media/Dryer.png": "/store-app/static/media/Dryer.3e8fd95905aa08d28e04.png",
+    "static/media/shower.png": "/store-app/static/media/shower.3965dc52584fec14df21.png",
+    "static/media/Bath.png": "/store-app/static/media/Bath.05011fcf4d385af20bf5.png",
+    "static/media/Group.svg": "/store-app/static/media/Group.fb2f369b66991a60c6b22adefe0eb8fa.svg",
+    "static/media/GooglePay.svg": "/store-app/static/media/GooglePay.7e32dac75e8809b954f1a5b8c0b6fa53.svg",
+    "static/media/Whatsapp.svg": "/store-app/static/media/Whatsapp.4d368ce066e87fcaac4de44042685969.svg",
+    "static/media/logo-instagram.svg": "/store-app/static/media/logo-instagram.05a559c0b80e998460149710d8887a63.svg",
+    "static/media/slick.svg": "/store-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/store-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/store-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/Clock-Square.svg": "/store-app/static/media/Clock-Square.cfecfb0235703d28df2a46e0ca01b7bb.svg",
+    "static/media/Location.svg": "/store-app/static/media/Location.6ee9bb99880e09173c9e8d9b3c99f270.svg",
+    "static/media/slick.woff": "/store-app/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/logo-facebook.svg": "/store-app/static/media/logo-facebook.ecc2f4406b719164fd587fc6e8f3f8bb.svg",
+    "static/media/Profile.svg": "/store-app/static/media/Profile.2c59899d59509136f41cf1726e3e6c44.svg",
+    "static/media/Cart.svg": "/store-app/static/media/Cart.e7857a1f50c37055675745aed93b3fc3.svg",
+    "index.html": "/store-app/index.html",
+    "static/media/Vector 208.svg": "/store-app/static/media/Vector 208.0290473573669e2550e255a7cd8f796e.svg",
+    "static/media/Group 480964073.svg": "/store-app/static/media/Group 480964073.4f7520cbc1e4ec5ed5756d66689276ff.svg",
+    "static/media/Search.svg": "/store-app/static/media/Search.9e19d77b47e3da0de784106b9f4ef024.svg",
+    "static/media/Burger.svg": "/store-app/static/media/Burger.27d941615db42d61d09b4b5a075c5f92.svg",
+    "static/media/Line 1.svg": "/store-app/static/media/Line 1.1c16534e9e0f745ea3ac1b2e1c18b2bf.svg",
+    "static/media/Ellipse 491.svg": "/store-app/static/media/Ellipse 491.03e6f8ef01701357c5e5044444498dc6.svg",
+    "static/media/Ellipse 492.svg": "/store-app/static/media/Ellipse 492.426cf416e4c7362197abbe48ef0b5be7.svg",
+    "static/media/Ellipse 520.svg": "/store-app/static/media/Ellipse 520.845f27b7c5d25f4badff5a56c3c73bb8.svg",
+    "main.3216d318.css.map": "/store-app/static/css/main.3216d318.css.map",
+    "main.5e703388.js.map": "/store-app/static/js/main.5e703388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3216d318.css",
+    "static/js/main.5e703388.js"
+  ]
+}
